@@ -1,0 +1,84 @@
+.polcode_user_info_page{
+	padding: 10px;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.polcode_user_info_page textarea{
+	width: 95%;
+	padding: 2px;
+	height: 100px;
+}
+
+.polcode_user_info_page ul {
+	display: block;
+	margin-left: 20px;
+}
+
+
+.polcode_user_info_page h1 {
+	padding: 5px 0;
+}
+
+.polcode_user_info_page table
+{
+	width: 100%;
+}
+
+
+
+.polcode_user_info_page table td{
+
+	padding: 3px 5px;
+}
+
+.polcode_user_info_page table thead{
+	background: #000;
+	color: #fff;
+}
+
+.polcode_user_info_i{
+	text-align: center;
+}
+
+.polcode_user_info_i a{
+	color: #000;
+}
+
+
+
+.polcode_user_info_page table tbody tr:nth-child(2n){
+	background: #E5E5E5;
+
+}
+
+.polcode_user_info_page table tr:hover
+{
+	background: #000 !important;
+	color: #fff;
+	/* line-height: 25px; */
+}
+
+.polcode_user_info_page table tr:hover .polcode_user_info_i a{
+	color: #fff !important;
+}
+
+.polcode_user_info_copyright {
+	text-align: center;
+	font-size: 10px;
+}
+
+.polcode_user_info_copyright hr{
+	width: 100%;
+	margin: 10px 0 5px 0;
+}
+
+.polcode_user_info_left {
+	float: left;
+	width: 60%;
+}
+
+.polcode_user_info_right {
+	float: right;
+	width: 40%;
+}
